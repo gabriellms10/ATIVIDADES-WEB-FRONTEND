@@ -37,5 +37,5 @@
             
             
             elementoContagem.innerHTML = 
-                `Caracteres: ${numCaracteres} | Palavras: ${numPalavras} | Restantes: ${caracteresRestantes}/${LIMITE_MAXIMO}`;
+                `| Restam: ${caracteresRestantes}/${LIMITE_MAXIMO}`;
         }
